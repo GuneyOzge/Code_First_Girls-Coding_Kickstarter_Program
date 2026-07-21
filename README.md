@@ -1,4 +1,4 @@
-# Library Management Database System
+# 📚 Library Management Database System
 
 ## Project Overview
 
@@ -8,13 +8,17 @@ The project demonstrates database design principles, relational database impleme
 
 ## Project Objectives
 
-- Design a normalised relational database.
-- Establish relationships using Primary Keys and Foreign Keys.
-- Import and manage data efficiently.
-- Perform data analysis using SQL queries.
-- Implement advanced database features such as views, stored procedures, functions, triggers, and events.
+📌 Design a normalised relational database
 
-## Learning Outcomes
+📌 Establish relationships using Primary Keys and Foreign Keys
+
+📌 Import and manage data efficiently
+
+📌 Perform data analysis using SQL queries
+
+📌 Implement advanced database features such as views, stored procedures, functions, triggers, and events
+
+## 📝 Learning Outcomes
 
 Through this project, the team gained practical experience in:
 
@@ -25,13 +29,13 @@ Through this project, the team gained practical experience in:
 - Data analysis using SQL
 - Advanced database programming concepts
 
-## Technologies
+## 🌟 Technologies
 - SQL
 - Relational Database Management System (RDBMS)
 - CSV Data Import
 - Database Modelling Tools
 - Excel (Database Planning)
 
-## Conclusion
+## 🧱 Conclusion
 
 This project demonstrates the complete lifecycle of designing, implementing, and analysing a relational database system. By combining fundamental and advanced SQL concepts, the Library Management Database provides a scalable foundation for managing library operations efficiently.
