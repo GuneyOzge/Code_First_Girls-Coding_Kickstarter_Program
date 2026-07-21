@@ -34,7 +34,7 @@ Through this project, the team gained practical experience in:
 - Relational Database Management System (RDBMS)
 - CSV Data Import
 - Database Modelling Tools
-- Excel (Database Planning)
+- Database Planning
 
 ## 🧱 Conclusion
 
