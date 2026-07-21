@@ -1,9 +1,6 @@
 /* CORE REQUIREMENTS */
 
--- Joins --
-
-
--- Shows the books that have been borrowed
+-- Joins: Shows the books that have been borrowed
 SELECT borrowed_books.Book_ID, books.title, borrowed_books.borrow_date, borrowed_books.due_date, borrowed_books.return_date, borrowed_books.Member_ID
 FROM borrowed_books
 INNER JOIN books ON borrowed_books.Book_ID = books.Book_ID;
